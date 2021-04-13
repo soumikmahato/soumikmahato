@@ -17,9 +17,9 @@ You can find me on [![Twitter][1.2]][1]
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email me at soumikmahato06@gmail.com...
 - 💻 Website- https://soumikmahato.xyz
-<!---
+
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [1]: https://twitter.com/soumikmahato1
 
- --->
+
