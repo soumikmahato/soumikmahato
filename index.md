@@ -1,37 +1,56 @@
-## Welcome to GitHub Pages
+## Hi there 👋
+I am a webdeveloper, app developer, free-lancer.
+[##My Website](https://soumikmahato.xyz)
+<p align="center">
+<img src="https://images.hostmessage.info/login_logo/f8e66ecb91ee035df5ae20f0f4eaaa99.jpg">
+</p>
 
-You can use the [editor on GitHub](https://github.com/soumikmahato/soumikmahato/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<img src = "programmer.jpg" height = "300px" width = "100%"/>
+### Information
 
-### Markdown
+My infomation in json format
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+``` json
+{
+"name":"Soumik Mahato",
+"education":"Sainik School Purulia",
+"country":"India",
+"state":"West Bengal",
+"Email":{
+"email":"soumikmahato06@gmail.com",
+"email":"soumikmahato@yahoo.com",
+},
+"language":{
+"lang":"php",
+"lang":"javascript",
+"lang":"node.js",
+"lang":"css",
+"lang":"java",
+"lang":"python",
+},
+"database":{
+"db":"Mysql",
+"db":"MariaDb",
+"db":"Mongodb",
+"db":"Postgresql",
+"db":"Sql-lite",
+},
+"website": "https://soumikmahato.xyz",
+}
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+You can find me on [![Twitter][1.2]][1]
 
-### Jekyll Themes
+### Technologies and tool
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/soumikmahato/soumikmahato/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<hr>
+
+<img src = "https://img.shields.io/badge/Language-JavaScript-yellowgreen" />  <img src="https://img.shields.io/badge/Language-php-green">  <img src="https://img.shields.io/badge/Language-Nodejs-redgreen">  <img src="https://img.shields.io/badge/Language-css-blueyellow"> <img src = "https://img.shields.io/badge/Language-Java-blue" />  <img src = "https://img.shields.io/badge/Language-Python-yellowgreen" />
+   <img src = "https://img.shields.io/badge/Database-mysql-blue" />  <img src="https://img.shields.io/badge/Database-mongo%20Db-red" />
 
 ### Support or Contact
+contact us on [soumikmahato06@gmail.com](mailto:soumikmahato06@gmail.com)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[1]: https://twitter.com/soumikmahato1
