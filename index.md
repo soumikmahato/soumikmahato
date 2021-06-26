@@ -36,7 +36,7 @@ My infomation in json format
 "db":"Postgresql",
 "db":"Sql-lite",
 },
-"website": "https://soumikmahato.xyz",
+"website": "https://soumikmahato.xyz"
 }
 ```
 
