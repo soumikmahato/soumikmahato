@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="940" viewBox="0 0 1000 940" role="img" aria-labelledby="title desc">
+<title id="title">Intersection of biology, electrical engineering, deep learning and computer science</title>
+<desc id="desc">Four overlapping pastel circles inside a universal set. Their central common region is labelled I equals B intersection E intersection N intersection C.</desc>
+<rect width="1000" height="940" fill="white"/>
+<rect x="24" y="24" width="952" height="892" fill="none" stroke="#888" stroke-width="2"/>
+<text x="43" y="70" font-family="DejaVu Sans,Arial,sans-serif" font-size="36" fill="#111">U</text>
+<!-- Translucent fills, with outlines above all fills. -->
+<circle cx="380" cy="350" r="265" fill="#f7a8ca" fill-opacity=".52"/>
+<circle cx="620" cy="350" r="265" fill="#55c97b" fill-opacity=".48"/>
+<circle cx="380" cy="590" r="265" fill="#ffd4ab" fill-opacity=".52"/>
+<circle cx="620" cy="590" r="265" fill="#a8c9ff" fill-opacity=".48"/>
+<g fill="none" stroke-width="2.6">
+<circle cx="380" cy="350" r="265" stroke="#ff4b32"/>
+<circle cx="620" cy="350" r="265" stroke="#245cff"/>
+<circle cx="380" cy="590" r="265" stroke="#ff08aa"/>
+<circle cx="620" cy="590" r="265" stroke="#8252d5"/>
+</g>
+<g font-family="DejaVu Sans,Arial,sans-serif" text-anchor="middle">
+<g fill="#ee4b35"><text x="290" y="213" font-size="39">B</text><text x="290" y="249" font-size="20">Frontier Biology</text></g>
+<g fill="#2259e9"><text x="690" y="200" font-size="39">E</text><text x="690" y="236" font-size="20">Electrical</text><text x="690" y="263" font-size="20">Engineering</text></g>
+<g fill="#e40092"><text x="290" y="705" font-size="39">N</text><text x="290" y="741" font-size="20">Deep Learning &amp;</text><text x="290" y="768" font-size="20">Neural Networks</text></g>
+<g fill="#7040b9"><text x="690" y="717" font-size="39">C</text><text x="690" y="753" font-size="20">Computer Science</text></g>
+<g fill="#29462f"><text x="500" y="458" font-size="28">B ∩ E ∩ N ∩ C</text><text x="500" y="499" font-size="32" font-family="DejaVu Serif,serif" font-style="italic">I</text></g>
+</g>
+</svg>
